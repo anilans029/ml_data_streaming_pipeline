@@ -1,4 +1,4 @@
-.env/*
+codna .env/*
 .idea
 venv/
 *.egg-info
