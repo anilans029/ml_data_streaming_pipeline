@@ -1,28 +1,6 @@
 # confluent-kafka-python
 
 
-This repo help us to know how to publish and consume data to and from kafka confluent in json format.
-
-##Environment setup
-Step 1: Create a conda environment
-```
-conda --version
-```
-
-Step2: Create  a conda environment
-```
-conda create -p venv python==3.8 -y
-```
-
-Step3:
-```
-conda activate venv/
-```
-Step4:
-```
-pip install -r requirements.txt
-```
-
 ![download](https://user-images.githubusercontent.com/34875169/169837256-b5cce5b4-0b10-4a5b-82b7-926f10690437.png)
 ***
 How to setup confluent Kafka.
