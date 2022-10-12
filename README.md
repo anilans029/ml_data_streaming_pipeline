@@ -30,6 +30,21 @@ confluentTopicName = ""
 confluentApiKey = ""
 confluentSecret = ""
 ```
+
+### Set the below environment variables in your system (windows/linux/mac) with the details you got after completing the above setup
+```
+API_KEY
+ENDPOINT_SCHEMA_URL
+API_SECRET_KEY 
+BOOTSTRAP_SERVER 
+SECURITY_PROTOCOL 
+SSL_MACHENISM 
+SCHEMA_REGISTRY_API_KEY 
+SCHEMA_REGISTRY_API_SECRET 
+```
+
+
+
 Add below library in requirements.txt
 ```
 confluent-kafka[avro,json,protobuf]
