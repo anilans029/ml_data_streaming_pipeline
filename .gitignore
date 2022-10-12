@@ -1,4 +1,4 @@
-codna .env/*
+.env/*
 .idea
 venv/
 *.egg-info
@@ -7,3 +7,4 @@ logs/*
 *.pyc
 Credential.md
 env/
+venv/
